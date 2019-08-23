@@ -14,8 +14,8 @@ add_executable(RayCasting RayCasting.cpp)
 target_include_directories(RayCasting PRIVATE SFML/include)
 target_link_libraries(RayCasting PRIVATE sfml-window sfml-graphics sfml-system)
 
-add_executable(Beauty Beauty.cpp)
+add_executable(BeatifulBubbles BeatifulBubbles.cpp)
 
-target_include_directories(Beauty PRIVATE SFML/include)
-target_link_libraries(Beauty PRIVATE sfml-window sfml-graphics sfml-system)
+target_include_directories(BeatifulBubbles PRIVATE SFML/include)
+target_link_libraries(BeatifulBubbles PRIVATE sfml-window sfml-graphics sfml-system)
 

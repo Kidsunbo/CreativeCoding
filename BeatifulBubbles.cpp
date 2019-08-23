@@ -58,7 +58,7 @@ std::uniform_int_distribution<int> MoveCircle::posYRan = std::uniform_int_distri
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(1280, 960), "RayCasting",sf::Style::Close|sf::Style::Titlebar);
+    sf::RenderWindow window(sf::VideoMode(1280, 960), "BeatifulBubbles",sf::Style::Close|sf::Style::Titlebar);
     window.setPosition({10,10});
     std::vector<MoveCircle> circles(250);
     window.setFramerateLimit(30);
