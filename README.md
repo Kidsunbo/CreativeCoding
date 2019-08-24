@@ -19,7 +19,7 @@ This is a repository for some small scale coding, just for fun.
 ![BeatifulBubbles](./ScreenShot/0002.JPG)
 
 ### 0003. RayCasting
-![RayCasting](./ScreenShot/0003.JPG)
+![RayCasting](./ScreenShot/0003.png)
 
 
 # Description
