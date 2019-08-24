@@ -7,6 +7,7 @@ This is a repository for some small scale coding, just for fun.
 |---|-----|-----|-------|------|
 |0001|RayCasting|2019-08-23|C++|SFML|
 |0002|BeatifulBubbles|2019-08-23|C++|SFML|
+|0003|RayCasting|2019-08-24|Java|JavaFX|
 
 
 
@@ -16,6 +17,9 @@ This is a repository for some small scale coding, just for fun.
 
 ### 0002. BeatifulBubbles
 ![BeatifulBubbles](./ScreenShot/0002.JPG)
+
+### 0003. RayCasting
+![RayCasting](./ScreenShot/0003.JPG)
 
 
 # Description
